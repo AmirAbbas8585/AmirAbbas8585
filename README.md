@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Amir Abbas 👋</h1>
 
 <p align="center">
-  <i>Minecraft server &amp; plugin developer — anti-cheat, performance, and a clean player experience.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=1BD96A&center=true&vCenter=true&width=600&lines=Minecraft+server+%26+plugin+developer;Anti-cheat+%E2%80%A2+performance+%E2%80%A2+clean+UX;Author+of+Jester+Anti+Cheat" alt="typing banner" />
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/PfDDFKMaMs"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AmirAbbas8585&color=1bd96a&style=flat&label=Profile+views" />
   <img alt="Java" src="https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white">
   <img alt="Paper" src="https://img.shields.io/badge/Paper%20%2F%20Spigot%20%2F%20Folia-2C2F33?logo=spigotmc&logoColor=white">
 </p>
@@ -26,6 +26,16 @@ and a strong focus on **low false-positives** across mixed client versions and p
 
 ---
 
+### 💬 Catch me on Discord — live status
+
+<p align="center">
+  <a href="https://discord.com/users/1062758325508382770">
+    <img src="https://lanyard.cnrad.dev/api/1062758325508382770?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=Probably%20building%20a%20plugin..." alt="Discord live status" />
+  </a>
+</p>
+
+---
+
 ### 🧰 Tech I work with
 
 - **Languages:** Java
@@ -37,17 +47,18 @@ and a strong focus on **low false-positives** across mixed client versions and p
 
 ### 📊 GitHub
 
-<p>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AmirAbbas8585&show_icons=true&hide_border=true&theme=tokyonight">
+<p align="center">
+  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AmirAbbas8585&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAbbas8585&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=AmirAbbas8585&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </p>
 
 ---
 
 <p align="center">
-  💬 Questions, help or just to chat about anti-cheat &amp; servers —
-  <a href="https://discord.gg/PfDDFKMaMs">join the community Discord</a>.
-</p>
-
-<p align="center">
-  <a href="https://discord.com/users/1062758325508382770"><img alt="Discord DM" src="https://img.shields.io/badge/Discord-amirabbas2556-5865F2?logo=discord&logoColor=white"></a>
+  🎮 <b>Community Discord:</b> <a href="https://discord.gg/PfDDFKMaMs">discord.gg/PfDDFKMaMs</a>
+  &nbsp;·&nbsp; <b>DM:</b> <a href="https://discord.com/users/1062758325508382770">amirabbas2556</a>
 </p>
