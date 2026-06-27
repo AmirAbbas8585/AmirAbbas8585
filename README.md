@@ -49,5 +49,5 @@ and a strong focus on **low false-positives** across mixed client versions and p
 </p>
 
 <p align="center">
-  📫 <b>Discord:</b> <code>amirabbas2556</code>
+  <a href="https://discord.com/users/1062758325508382770"><img alt="Discord DM" src="https://img.shields.io/badge/Discord-amirabbas2556-5865F2?logo=discord&logoColor=white"></a>
 </p>
