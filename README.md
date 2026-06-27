@@ -45,5 +45,9 @@ and a strong focus on **low false-positives** across mixed client versions and p
 
 <p align="center">
   💬 Questions, help or just to chat about anti-cheat &amp; servers —
-  <a href="https://discord.gg/PfDDFKMaMs">join the Discord</a>.
+  <a href="https://discord.gg/PfDDFKMaMs">join the community Discord</a>.
+</p>
+
+<p align="center">
+  📫 <b>Discord:</b> <code>amirabbas2556</code>
 </p>
