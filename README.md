@@ -6,8 +6,6 @@
 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AmirAbbas8585&color=1bd96a&style=flat&label=Profile+views" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white">
-  <img alt="Paper" src="https://img.shields.io/badge/Paper%20%2F%20Spigot%20%2F%20Folia-2C2F33?logo=spigotmc&logoColor=white">
 </p>
 
 ---
@@ -36,24 +34,25 @@ and a strong focus on **low false-positives** across mixed client versions and p
 
 ---
 
-### 🧰 Tech I work with
-
-- **Languages:** Java
-- **Minecraft:** Paper / Spigot API, PacketEvents, Folia
-- **Tooling:** Gradle, Git
-- **Data:** MySQL / SQLite
-
----
-
 ### 📊 GitHub
 
 <p align="center">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AmirAbbas8585&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAbbas8585&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AmirAbbas8585&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1bd96a&icon_color=1bd96a&text_color=c9d1d9&ring_color=1bd96a" />
+  <img height="165" alt="Streak" src="https://streak-stats.demolab.com?user=AmirAbbas8585&hide_border=true&background=0d1117&stroke=30363d&ring=1bd96a&fire=1bd96a&currStreakLabel=1bd96a&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </p>
 
 <p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=AmirAbbas8585&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AmirAbbas8585&bg_color=0d1117&color=1bd96a&line=1bd96a&point=ffffff&area=true&area_color=1bd96a&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAbbas8585&layout=compact&hide_border=true&bg_color=0d1117&title_color=1bd96a&text_color=c9d1d9" />
+</p>
+
+#### 🐍 Watch my contributions get eaten
+
+<p align="center">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/AmirAbbas8585/AmirAbbas8585/output/snake-dark.svg" />
 </p>
 
 ---
