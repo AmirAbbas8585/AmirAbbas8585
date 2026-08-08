@@ -59,5 +59,5 @@ and a strong focus on **low false-positives** across mixed client versions and p
 
 <p align="center">
   🎮 <b>Community Discord:</b> <a href="https://discord.gg/PfDDFKMaMs">discord.gg/PfDDFKMaMs</a>
-  &nbsp;·&nbsp; <b>DM:</b> <a href="https://discord.com/users/1062758325508382770">amirabbas2556</a> &nbsp;·&nbsp; <b>DM:</b> <a href="https://discord.com/users/1062758325508382770">amirabbas2556</a>
+  &nbsp;·&nbsp; <b>DM:</b> <a href="https://discord.com/users/1062758325508382770">amirabbas2556</a> &nbsp;·&nbsp; <b>Donate:</b> <a href="https://donofa.com/amirabbas2556/">amirabbas2556</a>
 </p>
