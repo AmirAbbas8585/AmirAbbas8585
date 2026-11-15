@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amir Abbas 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=1BD96A&center=true&vCenter=true&width=640&lines=Minecraft+server+%26+plugin+developer;Anti-cheat+%E2%80%A2+performance+%E2%80%A2+clean+UX;BetterDiscord+themes+%26+companion+plugins;Author+of+Jester+Anti+Cheat+%26+Black+Asta" alt="typing banner" />
+  Most repositories on this account were built and completed with the <b>help</b> of AI.
 </p>
 
 <p align="center">
@@ -41,13 +41,25 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚔️ Black Asta — BetterDiscord</h4>
+      <h4>⚔️ Anti-Magic Asta — BetterDiscord</h4>
       <p>
         A <b>Black Clover (Anti-Magic)</b> BetterDiscord theme &amp; companion plugin featuring liquid-glass panels, glowing status auras, floating embers, 6 live palettes, <code>Ctrl + Scroll</code> zoom, and auto-updates.
       </p>
       <p>
-        <a href="https://github.com/AmirAbbas8585/Black-Asta-BetterDiscord/releases/latest"><img alt="Release" src="https://img.shields.io/badge/Release-Download-d62839?logo=discord&logoColor=white"></a>
-        <a href="https://github.com/AmirAbbas8585/Black-Asta-BetterDiscord"><img alt="Source" src="https://img.shields.io/badge/Source-GitHub-181717?logo=github&logoColor=white"></a>
+        <a href="https://github.com/AmirAbbas8585/AntiMagic-BetterDiscord/releases/latest"><img alt="Release" src="https://img.shields.io/badge/Release-Download-d62839?logo=discord&logoColor=white"></a>
+        <a href="https://github.com/AmirAbbas8585/AntiMagic-BetterDiscord"><img alt="Source" src="https://img.shields.io/badge/Source-GitHub-181717?logo=github&logoColor=white"></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🏝️ Notchly — Dynamic Island for Windows</h4>
+      <p>
+        A lightweight floating Dynamic Island for Windows 10 &amp; 11 built with <b>Tauri + Rust</b>: live media controls, per-app WASAPI volume scroll, smart notifications with real app icons, quick notes, clipboard history, file shelf, and a standalone interactive Settings studio.
+      </p>
+      <p>
+        <a href="https://github.com/AmirAbbas8585/Notchly/releases/latest"><img alt="Release" src="https://img.shields.io/badge/Release-Download-1bd96a?logo=windows&logoColor=white"></a>
+        <a href="https://github.com/AmirAbbas8585/Notchly"><img alt="Source" src="https://img.shields.io/badge/Source-GitHub-181717?logo=github&logoColor=white"></a>
       </p>
     </td>
   </tr>
