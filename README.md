@@ -80,8 +80,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img alt="GitHub Stats & 30-Day Activity" src="https://raw.githubusercontent.com/AmirAbbas8585/AmirAbbas8585/output/stats.svg" />
-  <img alt="Most Used Languages" src="https://raw.githubusercontent.com/AmirAbbas8585/AmirAbbas8585/output/langs.svg" />
+  <img alt="GitHub Stats & 30-Day Activity" src="https://raw.githubusercontent.com/AmirAbbas8585/AmirAbbas8585/stats/stats.svg" />
+  <img alt="Most Used Languages" src="https://raw.githubusercontent.com/AmirAbbas8585/AmirAbbas8585/stats/langs.svg" />
 </p>
 
 #### 🐍 Watch my contributions get eaten

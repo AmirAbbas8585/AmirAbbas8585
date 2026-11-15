@@ -26,14 +26,19 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python .github/scripts/generate_stats.py
 
-      - name: Push SVGs to output branch (preserving snake)
+      - name: Push SVGs to dedicated stats branch
         run: |
+          mv dist/stats.svg /tmp/stats.svg
+          mv dist/langs.svg /tmp/langs.svg
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin output:output || git checkout --orphan output
-          git checkout output
-          cp dist/stats.svg stats.svg
-          cp dist/langs.svg langs.svg
-          rm -rf dist
+          if git fetch origin stats:stats 2>/dev/null; then
+            git checkout stats
+          else
+            git checkout --orphan stats
+            git rm -rf --quiet . || true
+          fi
+          cp /tmp/stats.svg stats.svg
+          cp /tmp/langs.svg langs.svg
           git add stats.svg langs.svg
-          git diff --cached --quiet || (git commit -m "Update GitHub stats SVGs" && git push origin output)
+          git diff --cached --quiet || (git commit -m "Update GitHub stats SVGs" && git push origin stats)
